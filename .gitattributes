@@ -1,1 +1,2 @@
+genish-impact-win32-ia32/ filter=lfs diff=lfs merge=lfs -text
 YSdemo.zip filter=lfs diff=lfs merge=lfs -text
